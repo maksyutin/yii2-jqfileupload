@@ -21,7 +21,7 @@
     "repositories":[
         {
             "type": "git",
-            "url": "file://C:\OpenServer\domains\localhost\vendor\maksyutin/yii2-jqfileupload"
+            "url": "https://github.com/maksyutin/yii2-jqfileupload"
         }
     ]
 }
