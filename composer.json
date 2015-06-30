@@ -1,0 +1,27 @@
+{
+    "name": "maksyutin/yii2-jqfileupload",
+    "description": "YII2 jQuery File Upload",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"," jqfileupload"," jQuery File Upload"," upload"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maksyutin Dmitriy",
+            "email": "maksyutin@yandex.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "maksyutin\\jqfileupload\\": "*"
+        }
+    },
+    "repositories":[
+        {
+            "type": "git",
+            "url": "file://C:\OpenServer\domains\localhost\vendor\maksyutin/yii2-jqfileupload"
+        }
+    ]
+}
